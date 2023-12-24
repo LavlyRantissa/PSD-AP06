@@ -6,4 +6,10 @@ First the user needs to enter some passwords to access the messaging feature, pa
 
 ![image](https://github.com/MRifkiPratama/PSD-AP06/assets/133479361/3534b09a-a1a0-476b-9a6a-77377872c9c0)
 
-
+# Our program features:
+- Caesar Shift Cipher Encryption/Decryption (6 Position Shift):
+  Secure messages with a simple but effective encryption method.
+- Emergency Signals (SOS and Help):
+  Allows users to quickly send emergency messages.
+- Security Code:
+  Requires users to enter a security code before activating the system, thereby preventing unauthorized access.
