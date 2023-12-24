@@ -2,12 +2,11 @@
 
 Welcome to our final project repo, the goal of our project is to make an encrypt/decrypt message transmitter with implementing Casear shift logic
 
-## Features
+## Our Program Features
 
-- SOS Button
-- Help Button 
-- Message Encrypter
-- Message Decrypter
+- Caesar Shift Cipher Encryption/Decryption (6 Position Shift): Secure messages with a simple but effective encryption method.
+- Emergency Signals (SOS and Help): Allows users to quickly send emergency messages.
+- Security Code: Requires users to enter a security code before activating the system, thereby preventing unauthorized access.
 
 
 # How it works?
